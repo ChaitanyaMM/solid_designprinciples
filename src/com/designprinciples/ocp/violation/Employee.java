@@ -1,4 +1,4 @@
-package com.desiginprinciples.ocp.violation;
+package com.designprinciples.ocp.violation;
 
 public class Employee {
 

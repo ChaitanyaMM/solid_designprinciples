@@ -1,4 +1,4 @@
-package com.desiginprinciples.ocp.violation;
+package com.designprinciples.ocp.violation;
 
 
 //this class is violation it shold be open for extention and closed for modifications but here 

@@ -1,4 +1,4 @@
-package com.desginprinciples.isp;
+package com.designprinciples.isp;
 
 public class Finance extends Employee implements FinanceActions {
 

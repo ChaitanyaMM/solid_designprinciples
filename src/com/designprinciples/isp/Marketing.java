@@ -1,4 +1,4 @@
-package com.desginprinciples.isp;
+package com.designprinciples.isp;
 
 public class Marketing extends Employee implements MarketingActions {
 

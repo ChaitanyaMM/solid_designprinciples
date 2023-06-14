@@ -1,4 +1,4 @@
-package com.desginprinciples.isp.violation;
+package com.designprinciples.isp.violation;
 
 abstract public class Employee {
 

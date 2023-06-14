@@ -1,5 +1,6 @@
-package com.desginprinciples.isp;
+package com.designprinciples.isp;
 
+ 
 public class IspMainClass {
 
 	public static void main(String[] args) {

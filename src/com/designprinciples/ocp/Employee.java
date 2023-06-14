@@ -1,4 +1,4 @@
-package com.desiginprinciples.ocp;
+package com.designprinciples.ocp;
 
 abstract public class Employee {
 
